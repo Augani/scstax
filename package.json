@@ -11,16 +11,19 @@
   },
   "dependencies": {
     "@mantine/core": "3.0.0",
-    "@mantine/next": "3.0.0",
     "@mantine/dates": "3.0.0",
     "@mantine/hooks": "3.0.0",
+    "@mantine/next": "3.0.0",
     "@mantine/notifications": "3.0.0",
     "@mantine/prism": "3.0.0",
+    "autoprefixer": "^10.3.7",
     "dayjs": "^1.10.5",
     "next": "11.0.1",
+    "postcss": "^8.3.11",
     "prism-react-renderer": "^1.2.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tailwindcss": "^2.2.17"
   },
   "devDependencies": {
     "@mantine/eslint-config": "3.0.0",
